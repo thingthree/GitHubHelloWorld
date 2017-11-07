@@ -1,0 +1,20 @@
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\obj\Debug\Tutorials Combined.csprojResolveAssemblyReference.cache
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\obj\Debug\Tutorials Combined.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\Tutorials Combined.exe.config
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\Tutorials Combined.exe
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\Tutorials Combined.pdb
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\obj\Debug\Tutorials Combined.exe
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\obj\Debug\Tutorials Combined.pdb
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\Values.txt
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\ItemList.txt
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\ItemQuality.txt
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\ItemValue.txt
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\ItemWeight.txt
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\ItemType.txt
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\ItemEnergy.txt
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\ItemPalitability.txt
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\ItemAttackRating.txt
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\ItemExpertisePenalty.txt
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\ItemEffect.txt
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\ItemDefenseRating.txt
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Tutorials Combined\Tutorials Combined\bin\Debug\ItemMovementPenalty.txt

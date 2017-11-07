@@ -1,0 +1,12 @@
+﻿Leather
+Plate
+Enchanted
+unused
+unused
+unused
+unused
+unused
+unused
+melee
+bow
+scythe

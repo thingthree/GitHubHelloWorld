@@ -1,0 +1,13 @@
+﻿-1
+-1
+Steals 3 mp on hit.
+-1
+-1
+-1
+Restores 50 HP. Can Overheal by 10 HP.
+Restores 10 Mana.
+Prevents death for the next 3 turns. Kills the user after 3 turns.  
+-1
+-1
+-1
+
